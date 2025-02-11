@@ -6,12 +6,13 @@
     <title>Color Generator</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body>
+  <body id="background-preview-color">
     <div class="container">
       <h1>Color Generator</h1>
       <div class="controls">
         <label for="color-input">Enter a color:</label>
-        <input type="text" id="color-input" placeholder="e.g., red, #ff5733" />
+        <input type="text" id="color-text" placeholder="e.g., red, #ff5733" />
+        <input type="color" id="color-input" />
         <button id="generate-button">Generate</button>
       </div>
       <div class="preview">
