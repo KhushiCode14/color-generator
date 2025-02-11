@@ -3,7 +3,19 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Color Generator</title>
   </head>
-  <body></body>
+  <body class="container preview-color">
+    <h1>Color Generator</h1>
+    <div class="controls">
+      <label for="color-input">Enter a color:</label>
+      <input type="text" id="color-input" />
+      <button id="generate-button">Generate</button>
+    </div>
+    <div class="preview">
+      <p>Preview:</p>
+      <span id="preview-color"></span>
+    </div>
+    <script src="script.js"></script>
+  </body>
 </html>
