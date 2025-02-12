@@ -41,8 +41,9 @@ A simple and interactive color generator that allows users to generate random co
 3. The hex code of the color will be displayed.
 
 ## 📸 Screenshot
-<iframe src="https://colorgenerator-khushicode.netlify.app/" width="100%" height="500px" style="border: none;"></iframe>
+## 📸 Website Preview
 
+[![Color Generator Preview](preview.png)](https://colorgenerator-khushicode.netlify.app/)
 
 💡 Features
 
