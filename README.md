@@ -20,8 +20,7 @@ A simple and interactive color generator that allows users to generate random co
 ├── script.js    # JavaScript functionality
 └── README.md    # Project documentation
 ```
-![Color Generator Preview](https://your-image-link.com)
- 
+
 ## 📥 Installation
 
 1. **Clone the repository:**
@@ -40,28 +39,13 @@ A simple and interactive color generator that allows users to generate random co
 2. The background will change to the generated color.
 3. The hex code of the color will be displayed.
 
-## 📸 Screenshot
 ## 📸 Website Preview
 
 [![Color Generator Preview](preview.png)](https://colorgenerator-khushicode.netlify.app/)
 
-💡 Features
-
-Generates random colors
-
-Displays the corresponding hex code
-
-Simple and user-friendly UI
 ## 💡 Features
+✅ Generates random colors
+✅ Displays the corresponding hex code
+✅ Simple and user-friendly UI
 
-- Generates random colors
-- Displays the corresponding hex code
-- Simple and user-friendly UI
-
-
-## 💬 Contact
-
-For any inquiries or suggestions, feel free to reach out:
-- 📧 Email: your-email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
